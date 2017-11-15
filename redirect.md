@@ -1,7 +1,7 @@
-### (Test) Redirect the user to ClearScore
+### (Test) Redirect the user to CS
 
 ```shell
-"https://auth.clearscore.co.uk/?
+"https://auth.example.co.uk/?
     client_id=$client_id&
     redirect_uri=$redirect_uri&
     response_type=code&
